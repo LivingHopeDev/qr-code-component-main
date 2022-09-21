@@ -27,8 +27,8 @@ The challenge is to redesign it to look as close as possible to the sample given
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/LivingHopeDev/qr-code-component-main)
+- Live Site URL: [Add live site URL here](https://livinghopedev.github.io/qr-code-component-main/)
 
 ## My process
 The card does't shift, so i used desktop first approach.
