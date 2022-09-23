@@ -9,7 +9,6 @@
 body,
 html {
     font-family: 'Outfit', sans-serif;
-    ;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -19,7 +18,7 @@ html {
 }
 
 
-#container {
+main {
     width: 20rem;
     height: auto;
     display: flex;
@@ -28,7 +27,7 @@ html {
     border-radius: .75rem;
 }
 
-.fluid_container {
+.container {
     width: 18.75rem;
     height: auto;
     margin: 1rem 1rem 1rem 1rem;
@@ -46,7 +45,7 @@ html {
 }
 
 
-.middle {
+h1 {
     padding: .1rem;
     margin-top: .9rem;
     text-align: center;
@@ -54,7 +53,7 @@ html {
     font-weight: 700;
 }
 
-.bottom {
+h3 {
     padding: .5rem;
     margin-top: .9rem;
     text-align: center;
